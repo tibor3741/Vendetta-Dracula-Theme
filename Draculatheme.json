@@ -1,6 +1,6 @@
 {
-    "name": "Midnight-Espresso",
-    "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini",
+    "name": "Dracula",
+    "description": "Original theme made by Dracula for AliucordKT",
     "authors": [
         {
             "name": "komette",
@@ -11,6 +11,15 @@
             "id": "1068030255455015013"
         }
     ],
+    "colors": {
+        "mention_highlight": ["#FFB86C"],
+        "active_channel_color": ["#FFB86C"],
+        "simple_bg_color": ["#FFA883"],
+        "simple_bg_secondary_color": ["#FF9871"],
+        "simple_accent_color": ["#FFCCCC"],
+        "input_background_color": ["#FFD4AC"],
+        "color_input_background_color": ["#FFD4AC"]
+    },
     "semanticColors": {
         "HEADER_PRIMARY": ["#282A36"],
         "HEADER_SECONDARY": ["#282A36"],
