@@ -41,9 +41,9 @@
         "CHANNELTEXTAREA_BACKGROUND": ["#372E29"],
         "CHANNELS_DEFAULT": ["#8BE9FD"],
         "TEXT_LINK": ["#8BE9FD"],
-        "TEXT_DANGER": ["#44475A"],
+        "TEXT_DANGER": ["#F8F8F2"],
         "KEYBOARD": ["#110D0A"],
-        "CHANNEL_ICON": ["#282A36"],
+        "CHANNEL_ICON": ["#8BE9FD"],
         "CHAT_BACKGROUND": ["#110D0A"]
     },
     "rawColors": {
