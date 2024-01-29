@@ -3,14 +3,9 @@
     "description": "Original theme made by Dracula for AliucordKT",
     "authors": [
         {
-            "name": "komette",
-            "id": "555686162153472000"
-        },
-        {
-            "name": "Vodka Martini",
-            "id": "1068030255455015013"
+            "name": "hegyijani",
+            "id": "1190710992410251270"
         }
-    ],
     "colors": {
         "mention_highlight": ["#FFB86C"],
         "active_channel_color": ["#FFB86C"],
