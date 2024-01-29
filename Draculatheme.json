@@ -1,7 +1,8 @@
 {
+  // Comment: This is a comment with the color #6272A4
   "name": "Dracula Theme",
   "semanticColors": {
-    "BACKGROUND_ACCENT": ["#282A36"],
+    "BACKGROUND_ACCENT": ["#FF5555"],
     "BACKGROUND_MENTIONED": ["#282A36"],
     "BACKGROUND_MENTIONED_HOVER": ["#282A36"],
     "BACKGROUND_MESSAGE_HIGHLIGHT": ["#282A36"],
@@ -24,37 +25,6 @@
     "HEADER_SECONDARY": ["#282A36"],
     "INTERACTIVE_ACTIVE": ["#282A36"],
     "INTERACTIVE_HOVER": ["#282A36"],
-    "INTERACTIVE_MUTED": ["#282A36"],
+    "INTERACTIVE_MUTED": ["#BD93F9"],
     "INTERACTIVE_NORMAL": ["#282A36"],
-    "MENTION_BACKGROUND": ["#282A36"],
-    "MENTION_FOREGROUND": ["#50FA7B"],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#282A36"],
-    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#282A36"],
-    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#282A36"],
-    "CARD_PRIMARY_BG": ["#282A36"],
-    "SCROLLBAR_AUTO_THUMB": ["#282A36"],
-    "SCROLLBAR_AUTO_TRACK": ["#282A36"],
-    "SCROLLBAR_THIN_THUMB": ["#282A36"],
-    "SCROLLBAR_THIN_TRACK": ["#282A36"],
-    "SPOILER_HIDDEN_BACKGROUND": ["#282A36"],
-    "TEXT_DANGER": ["#282A36"],
-    "TEXT_LINK": ["#282A36"],
-    "TEXT_MUTED": ["#282A36"],
-    "TEXT_NORMAL": ["#F8F8F2"],
-    "TEXT_PRIMARY": ["#F8F8F2"],
-    "TEXT_SECONDARY": ["#282A36"]
-  },
-  "plus": {
-    "version": "0",
-    "icons": {
-      "ic_new_pins": "#f38ba8",
-      "StatusStreaming": "#cba6f7",
-      "StatusMobileOnline": "#a6e3a1",
-      "StatusIdle": "#f9e2af",
-      "StatusDND": "#f38ba8",
-      "StatusOffline": "#9399b2",
-      "StatusOnline": "#a6e3a1"
-    }
-  },
-  "spec": 2
-}
+    "MENTION
