@@ -21,8 +21,6 @@
         "color_input_background_color": ["#FFD4AC"]
     },
     "semanticColors": {
-        "HEADER_PRIMARY": ["#282A36"],
-        "HEADER_SECONDARY": ["#282A36"],
         "TEXT_NORMAL": ["#F8F8F2"],
         "TEXT_MUTED": ["#6272A4"],
         "INTERACTIVE_NORMAL": ["#282A36"],
